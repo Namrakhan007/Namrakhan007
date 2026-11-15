@@ -2,17 +2,13 @@
 
 ## About Me
 
-I’m currently a Lead Web Developer who loves technology and building software. I enjoy exploring new tools, getting hands-on with them, and using them to build things that make people’s lives easier. 💻
+I’m currently a Lead Web Developer at **Pre Health Shadowing (PHS)**, who loves technology and building software. I enjoy exploring new tools, getting hands-on with them, and using them to build things that make people’s lives easier. 💻
 As a Lead Web Developer, I do two kinds of engineering: front-end and Backend. Front-end is the one I enjoy most, because I get to see my creativity come to life on the screen. I can shape the interface however I want and make it more appealing and intuitive for the people using it.
 I also enjoy connecting with people from different industries: listening to them, learning from them, mentoring, and sharing ideas. That’s why I want to grow my career in a direction where I can work directly with clients while still solving complex software engineering problems.
 
-Growing up, everyone had a plan for me. My parents wanted me to become a doctor, and my grandpa, seeing what a nerdy kid I was, hoped I'd go into civil service. But I always knew I was a **problem-solver** at heart, so I chose mathematics, and the more I learned, the more I fell in love with complex problems. Then COVID hit, and watching people suffer made me wonder if I had chosen the wrong path. If I were a doctor, I could have helped. That question stayed with me until I went deeper into computer science and realized that technology touches every field. A computer scientist can serve healthcare *and* public service, just in a different way. I didn't have to choose between my passion and my purpose. 💡
+Growing up, everyone had a plan for me. My parents wanted me to become a doctor, and my grandpa, seeing what a nerdy kid I was, hoped I'd go into civil service. But I always knew I was a **problem-solver** at heart, so I chose mathematics, and the more I learned, the more I fell in love with complex problems. Then COVID hit, and watching people suffer made me wonder if I had chosen the wrong path. If I were a doctor, I could have helped. That question followed me everywhere I go, until I went deeper into computer science and realized that technology touches every field. A computer scientist can serve healthcare *and* public service, just in a different way. I didn't have to choose between my passion and my purpose.💡
 
 I've been studying CS for six years and have consistently been among the top performers from high school through my master's at Texas Tech University. I know there's still so much to learn, and I'm excited to bring that drive to the industry, building at scale and creating something truly **impactful and valuable** with the imagination I have. and I see it coming. 🚀
-## 💼 Current Role: Web Developer at Pre Health Shadowing
-
-I'm proud to work with **Pre Health Shadowing (PHS)**, a nonprofit that gives students **free** shadowing opportunities so they can explore healthcare careers before committing to them. PHS believes in keeping great work alive and making opportunity accessible to everyone, and that mission is exactly why I love this work. Every page I build helps connect a student with an experience that can shape their future.
-**Tools I use at PHS:** WordPress, PHP, Next.js, PostgreSQL, SQL, Git, Monday.com
 
 ## 🚀 Current Project: [The Chronicles](https://github.com/Namrakhan007/The-Chronicles)
 
@@ -40,4 +36,7 @@ Watching them, I've learned that if they won't give up on learning, I won't give
 
 ## 📫 Connect with me
 
-<!-- LinkedIn / email badges go here — see Part 4 -->
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/namra-khan-7776a5225/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Namrakhan007)
