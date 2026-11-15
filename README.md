@@ -35,5 +35,5 @@ Watching them, I've learned that if they won't give up on learning, I won't give
 <!-- Badges go here — see Part 3 -->
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/namra-khan-7776a5225/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logoColor=white)](https://www.linkedin.com/in/namra-khan-7776a5225/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Namrakhan007)
