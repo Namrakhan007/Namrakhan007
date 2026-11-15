@@ -16,11 +16,6 @@ I've been studying CS for six years and have consistently been among the top per
 
 The Chronicles brings together the stories of the great leaders came in Islam, told in an **authentic, storytelling way**, sourced verse by verse from the Quran and classical tafsir. I'm experimenting with **AI-powered visualizations** so readers can picture what history looked like back then, connect with the greatness of these leaders, and carry their lessons into their own lives.
 
-### 🔹 Tech Stack Used So Far
-
-| Technology | Usage |
-|---|---|
-<!-- Namra will add rows here from her resume -->
 
 ## 🌱 Outside of Work
 When I'm not working, I'm usually brainstorming visual ideas and letting them spill onto my sketchbook or iPad 🖌️🎨. You'll also find me at community gatherings, networking events, and Islamic programs, picking up new ideas and passing them along to anyone who'll listen.
