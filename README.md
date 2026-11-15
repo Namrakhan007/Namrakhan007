@@ -10,7 +10,7 @@ Growing up, everyone had a plan for me. My parents wanted me to become a doctor,
 
 I've been studying CS for six years and have consistently been among the top performers from high school through my master's at Texas Tech University. I know there's still so much to learn, and I'm excited to bring that drive to the industry, building at scale and creating something truly **impactful and valuable** with the imagination I have. and I see it coming. 🚀
 
-## 🚀 Current Project: [The Chronicles](https://github.com/Namrakhan007/The-Chronicles)
+## 🚀 Recent Project: [The Chronicles](https://github.com/Namrakhan007/The-Chronicles)
 
 🌐 Live at **[islamicroots.org](https://islamicroots.org)**
 
@@ -28,7 +28,6 @@ I'm also an **ESL teacher for adults** 📚, and my students, many in their 40s,
 Watching them, I've learned that if they won't give up on learning, I won't give up on teaching, even when the language barrier makes it hard. I'm in my early 20s, and they remind me that it's never too late to start something new. So whenever life throws something hard at me, I try to be like them: **that stubborn kid who just doesn't give up.** 💪
 
 
-**Let's connect and explore how we can make an impact together.** 🤝
 
 ## 🛠️ Skills
 
@@ -70,6 +69,7 @@ Watching them, I've learned that if they won't give up on learning, I won't give
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📫 Connect with me
+**I’m always up for good conversations.** 😃
+## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/namra-khan-7776a5225/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Namrakhan007)
