@@ -70,7 +70,8 @@ Watching them, I've learned that if they won't give up on learning, I won't give
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📫 Connect with me:
+
+**I'm always up for good conversations.** 😃
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/namra-khan-7776a5225/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Namrakhan007)
-**I’m always up for good conversations.** 😃
-
