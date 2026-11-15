@@ -32,46 +32,43 @@ Watching them, I've learned that if they won't give up on learning, I won't give
 
 ## 🛠️ Skills
 
-### Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="30" alt="Java">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30" alt="Python">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" height="30" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white" height="30" alt="CSS">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" alt="JavaScript">
+#### Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Data & Platforms
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white" height="30" alt="SQL">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" height="30" alt="Prisma">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="30" alt="Redis">
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" height="30" alt="Airflow">
-<img src="https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white" height="30" alt="DVC">
-<img src="https://img.shields.io/badge/ETL_Pipelines-6E40C9?style=flat&logoColor=white" height="30" alt="ETL Pipelines">
-<img src="https://img.shields.io/badge/Palantir_Foundry-101113?style=flat&logo=palantir&logoColor=white" height="30" alt="Palantir Foundry">
+#### Data & Platforms:
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-6E40C9?style=for-the-badge&logoColor=white)
+![Palantir Foundry](https://img.shields.io/badge/Palantir_Foundry-101113?style=for-the-badge&logo=palantir&logoColor=white)
 
-### AI
-<img src="https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=flat&logoColor=white" height="30" alt="RAG Pipelines">
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat&logoColor=white" height="30" alt="LLMs">
-<img src="https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white" height="30" alt="MCP">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="30" alt="LangChain">
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white" height="30" alt="Pinecone">
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=claude&logoColor=white" height="30" alt="Claude API">
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=flat&logoColor=white" height="30" alt="Groq API">
+#### AI:
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
 
-### Frameworks & APIs
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" height="30" alt="Node.js">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="30" alt="React">
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" height="30" alt="WordPress">
-<img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat&logoColor=white" height="30" alt="REST APIs">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="30" alt="FastAPI">
+#### Frameworks & APIs:
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Cloud & Tools
-<img src="https://img.shields.io/badge/AWS_(S3,_EC2,_RDS)-FF9900?style=flat&logoColor=white" height="30" alt="AWS">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30" alt="Docker">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30" alt="Git">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="30" alt="Postman">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="30" alt="Jupyter">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logoColor=white" height="30" alt="VS Code">
+#### Cloud & Tools:
+![AWS](https://img.shields.io/badge/AWS_(S3,_EC2,_RDS)-232F3E?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/namra-khan-7776a5225/)
